@@ -30,9 +30,7 @@
 
 ---
 
-## 🎯 **Обо мне / About Me**
 
-```python
 class ЕрасылAmritay:
     def __init__(self):
         self.real_name = "Ерасыл (Yerasyl)"
@@ -41,7 +39,6 @@ class ЕрасылAmritay:
         self.current_role = "Python Backend Developer"
         self.short_goal = "Java Backend Developer"
         self.long_goal = "Full-Stack Developer"
-        
     def current_stack(self):
         return {
             "Языки / Languages": ["Python", "SQL"],
@@ -49,7 +46,6 @@ class ЕрасылAmritay:
             "Базы данных / Databases": ["PostgreSQL", "SQLite", "Redis"],
             "Инструменты / Tools": ["Docker", "Git", "Linux", "Nginx"]
         }
-    
     def learning_path(self):
         return [
             "🎯 Этап 1: Python Backend (Текущий) / Stage 1: Python Backend (Current)",
@@ -58,14 +54,11 @@ class ЕрасылAmritay:
             "🌐 Этап 4: System Design / Stage 4: System Design",
             "⚡ Этап 5: Full-Stack / Stage 5: Full-Stack"
         ]
-    
     def motto(self):
         return "Код — это поэзия, написанная логикой 💻 | Code is poetry written in logic 💻"
 
 dev = ЕрасылAmritay()
-```
 
----
 
 ## 🛠️ **Мой стек технологий / My Tech Stack**
 
@@ -168,29 +161,26 @@ dev = ЕрасылAmritay()
 
 ## 🗺️ **Дорожная карта / Roadmap**
 
-```mermaid
+``
 gantt
     title Дорожная карта разработчика / Developer Roadmap
     dateFormat  YYYY-MM
     axisFormat  %b %Y
     todayMarker off
-    
     section Python Backend / Python Бэкенд
     Изучение Python :done, 2023-01, 2023-06
     FastAPI/Flask :done, 2023-07, 2023-12
     Django :active, 2024-01, 2024-06
     Базы данных :active, 2024-03, 2024-08
-    
     section Java Transition / Переход на Java
     Основы Java :2024-05, 2024-09
     Spring Framework :2024-08, 2024-12
     Микросервисы :2024-11, 2025-04
-    
     section Full-Stack / Фулл-стек
     Frontend основы :2024-10, 2025-02
     React/Next.js :2025-01, 2025-06
     System Design :2025-03, 2025-12
-```
+
 
 ---
 
@@ -288,31 +278,3 @@ gantt
   </div>
   
 </div>
-
-<!-- Snake Animation -->
-![Snake animation](https://github.com/ErasylCoder/ErasylCoder/blob/output/github-contribution-grid-snake.svg)
-```
-
-## 📝 **Как использовать:**
-
-1. **Создайте файл `README.md`** в репозитории с названием вашего профиля (ErasylCoder)
-2. **Скопируйте и вставьте** весь код выше
-3. **Для snake animation** создайте файл `.github/workflows/snake.yml`:
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@master
-        with:
-          github_user_name: ErasylCoder
-          outputs: dist/github-contribution-grid-snake.svg
-```
-
-Этот профиль полностью билингвальный (русский/английский), содержит максимальную статистику, анимации и выглядит профессионально! 🚀
