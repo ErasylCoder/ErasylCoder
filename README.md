@@ -1,4 +1,4 @@
-```markdown
+
 <!-- Главный баннер с анимацией -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B68EE,50:FF69B4,100:00A79D&height=300&section=header&text=Ерасыл%20|%20ErasylCoder&fontSize=65&fontColor=fff&animation=twinkling&desc=Backend%20Developer%20from%20Aktobe,%20Kazakhstan&descAlignY=80&descAlign=60&stroke=000&strokeWidth=2" />
