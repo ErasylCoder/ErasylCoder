@@ -13,7 +13,25 @@ About Me
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ErasylCoder'&theme=dark&hide_border=false)<br/>
+### 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErasylCoder&show_icons=true&theme=react-dark&hide_border=true&count_private=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErasylCoder&theme=react-dark&hide_border=true" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasylCoder&layout=compact&theme=react-dark" />
+</p>
+
+---
+
+### 🐍 Skills Progress
+
+- Python: **100% ✅** (core fundamentals mastered)  
+- JavaScript: learning  
+- Web Development: ongoing  
+- Chatbots: ongoing  
