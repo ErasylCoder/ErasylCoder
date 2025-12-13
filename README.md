@@ -15,20 +15,24 @@ About Me
 ![](https://nirzak-streak-stats.vercel.app/?user=ErasylCoder'&theme=dark&hide_border=false)<br/>
 ### 📊 GitHub Statistics
 
-- Total commits, PRs, issues, contributions:  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErasylCoder&show_icons=true&theme=react-dark&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErasylCoder&show_icons=true&theme=react-dark&hide_border=true&count_private=true" />
+</p>
 
-- GitHub Streak:  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErasylCoder&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErasylCoder&theme=react-dark&hide_border=true" />
+</p>
 
-- Top Languages:  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasylCoder&layout=compact&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErasylCoder&layout=compact&theme=react-dark" />
+</p>
 
 ---
 
 ### 🐍 Skills Progress
 
-- Python: **100% ✅** (core fundamentals fully mastered)  
-- JavaScript: learning 💻  
-- Web Development: learning 🌐  
-- Chatbots: developing 🤖  
+- **Python:** 100% ✅ (core fundamentals mastered)  
+- **JavaScript:** learning 💻  
+- **Web Development:** learning 🌐  
+- **Chatbots:** developing 🤖
+
