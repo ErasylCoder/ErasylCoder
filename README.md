@@ -1,70 +1,67 @@
+<h1 align="center">👋 Hello, I'm Yerasyl (Amritay)!</h1>
+<h3 align="center">Aspiring Backend Developer from Aktobe, Kazakhstan</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Beginner+Programmer+from+Aktobe%2C+Kazakhstan;Python+Developer%3B+Learning+New+Technologies;Building+Websites+%26+Chatbots;Participating+in+Sport+Programming&center=true&width=900&height=60&color=38BDF8&vCenter=true&pause=700&size=28" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+Enthusiast;Future+Java+Expert;Full-Stack+Aspirant" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Aktobe%2C%20Kazakhstan-blue?style=for-the-badge&logo=location&logoColor=white" />
-  <img src="https://img.shields.io/badge/Beginner%20Programmer-Yes-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Studying-Python-orange?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-## 🌌 About Me
-
-<p align="center">
-I am a <b>beginner programmer</b> from <b>Aktobe, Kazakhstan</b>.<br/>
-I study <b>Python development</b>, participate in <b>sport programming</b>, and develop <b>websites and chatbots on order</b>.<br/>
-I regularly upload my projects to <b>GitHub</b> and continuously learn new technologies to improve my skills.
-</p>
-
----
-
-## 🛠️ My Work
-
-<p align="center">
-  <a href="#projects"><img src="https://img.shields.io/badge/Websites-Custom%20Design-blue?style=for-the-badge&logo=html5" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Chatbots-Automation-red?style=for-the-badge&logo=telegram" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/GitHub-Projects-green?style=for-the-badge&logo=github" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Learning-New%20Technologies-purple?style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/erasylcodebus/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErasylCoder&show_icons=true&theme=react-dark&hide_border=true&count_private=true" />
+*   🎯 **Current Focus:** Deeply learning **Python** and backend development ecosystem.
+*   ☕ **Primary Goal:** To become a professional **Java Backend Developer**.
+*   🌟 **Future Vision:** Aspiring to evolve into a **Full-Stack Developer**, building end-to-end solutions.
+*   📚 **Status:** Currently studying programming, working on personal projects, and strengthening my fundamentals.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### **Currently Using & Learning**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErasylCoder&theme=react-dark&hide_border=true" />
+
+### **Future Goals & Learning Path**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Projects
+## 🗺️ My Developer Roadmap
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErasylCoder&theme=react-dark&no-frame=true&column=6" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/erasylcodebus"><img src="https://img.shields.io/badge/Instagram-erasylcodebus-38BDF8?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-## 💡 Animated Showcase & Spider-Man Character
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Spider-Man" width="400" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErasylCoder&theme=react-dark&area=true&hide_border=true" />
-</p>
-
-<p align="center"><b>Beginner • Python • Web & Chatbots • Sport Programming</b></p>
+```mermaid
+graph TD
+    A[Today<br>Python Developer] --> B[Master Python & Frameworks<br>FastAPI/Django];
+    B --> C[Build Portfolio Projects<br>REST APIs, Databases];
+    C --> D[Java Fundamentals<br>OOP, Data Structures];
+    D --> E[Spring Ecosystem<br>Spring Boot, Security];
+    E --> F[Backend Mastery<br>Microservices, Cloud];
+    F --> G[Frontend Basics<br>HTML/CSS, JavaScript];
+    G --> H[Full-Stack Goal<br>React/Next.js];
+    
+    style A fill:#4CAF50,color:white
+    style H fill:#2196F3,color:white
