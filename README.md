@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello, I'm Erasyl 👋
 About Me<br><br>👋 Hi! My name is Erasyl, I’m a beginner programmer from Aktobe, Kazakhstan.<br>🐍 I’m learning Python and exploring new technologies.<br>💻 I develop websites and chatbots on order.<br>🏆 I participate in sport programming and regularly upload my projects to GitHub.<br>📱 To see my projects, check out my Instagram: @erasylcodebus<br><br>🚀 I’m passionate about growing as a backend developer and improving my skills every day.
 
 
