@@ -14,7 +14,7 @@ About Me<br><br>👋 Hi! My name is Erasyl, I’m a beginner programmer from Akt
 
 ---
 
-### 🚀 Skills
+
 - 🐍 **Python — mastered 100%**
 
 ---
