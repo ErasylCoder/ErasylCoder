@@ -13,6 +13,12 @@ About Me<br><br>👋 Hi! My name is Erasyl, I’m a beginner programmer from Akt
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErasylCoder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+### 🚀 Skills
+- 🐍 **Python — mastered 100%**
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=ErasylCoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
