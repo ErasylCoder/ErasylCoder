@@ -14,7 +14,6 @@ About Me<br><br>👋 Hi! My name is Erasyl, I’m a programmer from Aktobe, Kaza
 ---
 [![](https://visitcount.itsvg.in/api?id=Ermukhanov&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-[![](https://visitcount.itsvg.in/api?id=ErasylCoder&icon=0&color=0)](https://visitcount.itsvg.in)
-
+160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syatov&layout=compact&theme=github_dark" height="160">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
